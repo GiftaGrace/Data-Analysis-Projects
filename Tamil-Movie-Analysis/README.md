@@ -42,7 +42,10 @@ We look at the most frequent **lead actors** in the dataset.
 
 Using the genres column, we explore the **most popular movie genres**.
 
-📌 Insight: Action and drama genres appear frequently in Tamil films.
+📌 Insight: Drama and thriller genres appear frequently in Tamil films.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f2dd80a-a46d-4be1-bbd2-12b463dc30bc" />
+
 
 ---
 
