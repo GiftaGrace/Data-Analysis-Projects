@@ -51,6 +51,9 @@ The project includes visualizations like:
 * Most common genres
 * Netflix content growth timeline
 
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca97c021-28e8-4b35-af4c-2c72ce3f3e46" />
+
+
 ## ▶️ How to Run the Project
 
 1. Clone the repository
